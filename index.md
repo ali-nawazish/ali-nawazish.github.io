@@ -1,6 +1,6 @@
 ### Hello!
 
-You can use the [editor on GitHub](https://github.com/ali-nawazish/nawazish.github.io/edit/gh-pages/index.md) to maintan and preview the content for your website in Markdown files.
+My name is Nawazish i'm an open-source enthusiast a learning & an educator i'm deeply passionate about software development & innovations.
 
 # Tech i'm familiar with
 
@@ -8,7 +8,7 @@ Java / Python / Go / Cloud /Flask / C++ / Node /
 JavaScript / React / Keras / Docker / Databases
 ### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bechelor's Degree Computer, Science, Business, Management, Marketing, and Related Support Services
 
 ```
 git init
