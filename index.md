@@ -1,4 +1,4 @@
-### Hello!
+## Hello!
 
 My name is Nawazish i'm an open-source enthusiast a learning & an educator i'm deeply passionate about software development & innovations...
 
@@ -6,11 +6,11 @@ My name is Nawazish i'm an open-source enthusiast a learning & an educator i'm d
 
 Java / Python / Go / Cloud /Flask / C++ / Node / 
 JavaScript / React / Keras / Docker / Databases
-### Education
+## Education
 
 Bechelor's Degree Computer, Science, Business, Management, Marketing, and Related Support Services
 
-### Git & GitHub
+### GitHub
 
 
 ```markdown
@@ -25,11 +25,11 @@ git add .
 git commit -m ""
 ```
 
-### Experience
+## Experience
 
 #### Developer
 
-#### Program Manager
+### Program Manager
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ali-nawazish/nawazish.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Blog
