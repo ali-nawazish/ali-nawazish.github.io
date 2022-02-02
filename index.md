@@ -15,15 +15,19 @@ Bechelor's Degree Computer, Science, Business, Management, Marketing, and Relate
 
 
 ```markdown
-git init
+mylist = "apple", "banana", "cherry"
 ```
 
 ```markdown
-git add .
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
 ```
 
 ```markdown
-git commit -m ""
+System.out.println("The length of the txt string is: " + txt.length());
 ```
 
 ## Experience
