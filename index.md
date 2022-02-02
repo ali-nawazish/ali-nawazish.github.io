@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ali-nawazish/nawazish.gith
 
 # Tech i'm familiar with
 
-Java / Python / Go / Cloud /Flask / C++ / Node
+Java / Python / Go / Cloud /Flask / C++ / Node / 
 JavaScript / React / Keras / Docker / Databases
 ### Education
 
