@@ -15,14 +15,13 @@ Bechelor's Degree Computer, Science, Business, Management, Marketing, and Relate
 
 
 ```markdown
-mylist = "apple", "banana", "cherry"
+list = "apple", "banana", "cherry"
 ```
 
 ```markdown
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
-
 <p id="demo"></p>
 ```
 
@@ -34,7 +33,7 @@ System.out.println("The length of the txt string is: " + txt.length());
 
 #### Developer
 
-### Program Manager
+#### Program Manager
 Pages?
 
 ## Blog
