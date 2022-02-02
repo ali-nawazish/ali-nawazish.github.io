@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/ali-nawazish/nawazish.gith
 
 # Tech i'm familiar with
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Java / Python / Go / Cloud /Flask / C++ / Node
+JavaScript / React / Keras / Docker / Databases
 ### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
