@@ -15,27 +15,11 @@ Bechelor's Degree Computer, Science, Business, Management, Marketing, and Relate
 
 
 ```markdown
-list = "apple", "banana", "cherry"
+
 ```
 
 ```markdown
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
-<p id="demo"></p>
+
 ```
 
-```markdown
-System.out.println("The length of the txt string is: " + txt.length());
-```
 
-## Experience
-
-#### Developer
-
-#### Program Manager
-Pages?
-
-## Blog
-
-Blog Pages?
