@@ -11,7 +11,7 @@ JavaScript / React / Keras / Docker / Databases
 Bechelor's Degree Computer, Science, Business, Management, Marketing, and Related Support Services
 
 
-## Thanks
+#### Thank you for visiting
 
 
 ```markdown
